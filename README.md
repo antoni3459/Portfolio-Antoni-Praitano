@@ -2,7 +2,7 @@
 
 StormCore : durée production 1 an et 5 mois
 
-StormCore est jeux TPS sortie sur steam où on incarne un robot qui doit sauvé la planete en 3 jours. Nous pouvons changer nos membres pour modifier les capacité de notre personnage
+StormCore est un jeux TPS sorti sur Steam où on incarne un robot qui doit sauvé la planete en 3 jours. Nous pouvons changer nos membres pour modifier les capacité de notre personnage
 
 https://store.steampowered.com/app/3358210/StormCore/
 
@@ -32,3 +32,9 @@ Projet Perso:
 - IA faite en FSM
   
 - 3C complet
+
+Tower Defense :
+J'ai produit un jeu sur Unity avec une base de donnée firebase permettant de créé un compte pour enregistrer sa progressions. Cependant le projet n'est pas encore fini.
+
+- Systeme d'UI qui permet de changer de panel facilent
+- liaison avec la base de donné
